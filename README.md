@@ -8,7 +8,7 @@ This repository serves as a collaborative space for group 15 work during this tr
 
 ## Project links
 
-- Link to the video recording:
+- Link to the video recording: https://drive.google.com/file/d/1KaE38FC4bLWfloJ7w1DHMIOyOg8moJ/view?usp=sharing 
 
 - Link to the GitHub repository: https://github.com/GoodnessIhejiofor/mobile_app_group_15.git
 
